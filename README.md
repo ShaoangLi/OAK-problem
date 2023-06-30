@@ -1,2 +1,2 @@
 # OAK-problem
-We will organize and upload the code before June 30th.
+code for ICML 2023 paper: Optimal Arms Identification with Knapsacks
